@@ -1,0 +1,15 @@
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\bin\Debug\net8.0\ShopCart.Infrastructure.deps.json
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\bin\Debug\net8.0\ShopCart.Infrastructure.dll
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\bin\Debug\net8.0\ShopCart.Infrastructure.pdb
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\bin\Debug\net8.0\ShopCart.Domain.dll
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\bin\Debug\net8.0\ShopCart.Domain.pdb
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\obj\Debug\net8.0\ShopCart.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\obj\Debug\net8.0\ShopCart.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\obj\Debug\net8.0\ShopCart.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\obj\Debug\net8.0\ShopCart.Infrastructure.AssemblyInfo.cs
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\obj\Debug\net8.0\ShopCart.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\obj\Debug\net8.0\ShopCart.20DFD184.Up2Date
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\obj\Debug\net8.0\ShopCart.Infrastructure.dll
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\obj\Debug\net8.0\refint\ShopCart.Infrastructure.dll
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\obj\Debug\net8.0\ShopCart.Infrastructure.pdb
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Infrastructure\obj\Debug\net8.0\ref\ShopCart.Infrastructure.dll

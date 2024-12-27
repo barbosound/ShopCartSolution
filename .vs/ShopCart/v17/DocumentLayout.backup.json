@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barbo\\source\\repos\\ShopCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.domain\\entities\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|solutionrelative:shopcart.domain\\entities\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.application\\queries\\getshoppingcartqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|solutionrelative:shopcart.application\\queries\\getshoppingcartqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD843BAD-A157-414E-8F75-BAF5D4AB9B38}|ShopCart.Tests\\ShopCart.Tests.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.tests\\shopcartunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD843BAD-A157-414E-8F75-BAF5D4AB9B38}|ShopCart.Tests\\ShopCart.Tests.csproj|solutionrelative:shopcart.tests\\shopcartunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7CE799-FE1D-47B1-9BF6-79C9FC204CDA}|ShopCart\\ShopCart.Api.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7CE799-FE1D-47B1-9BF6-79C9FC204CDA}|ShopCart\\ShopCart.Api.csproj|solutionrelative:shopcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|solutionrelative:shopcart.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7CE799-FE1D-47B1-9BF6-79C9FC204CDA}|ShopCart\\ShopCart.Api.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7CE799-FE1D-47B1-9BF6-79C9FC204CDA}|ShopCart\\ShopCart.Api.csproj|solutionrelative:shopcart\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.domain\\entities\\shoppingcartresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|solutionrelative:shopcart.domain\\entities\\shoppingcartresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.application\\commands\\additemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|solutionrelative:shopcart.application\\commands\\additemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.application\\queries\\getshoppingcartquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|solutionrelative:shopcart.application\\queries\\getshoppingcartquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797B3975-56DD-4E9E-84FC-D6AD221C2421}|ShopCart.Infrastructure\\ShopCart.Infrastructure.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.infrastructure\\repositories\\inmemoryshoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797B3975-56DD-4E9E-84FC-D6AD221C2421}|ShopCart.Infrastructure\\ShopCart.Infrastructure.csproj|solutionrelative:shopcart.infrastructure\\repositories\\inmemoryshoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.domain\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|solutionrelative:shopcart.domain\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797B3975-56DD-4E9E-84FC-D6AD221C2421}|ShopCart.Infrastructure\\ShopCart.Infrastructure.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.infrastructure\\logging\\shoppingcartlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797B3975-56DD-4E9E-84FC-D6AD221C2421}|ShopCart.Infrastructure\\ShopCart.Infrastructure.csproj|solutionrelative:shopcart.infrastructure\\logging\\shoppingcartlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.application\\validators\\additemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|solutionrelative:shopcart.application\\validators\\additemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.application\\commands\\additemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|solutionrelative:shopcart.application\\commands\\additemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.application\\extensions\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F142C2F-CD08-437E-A35D-27E41DE18573}|ShopCart.Application\\ShopCart.Application.csproj|solutionrelative:shopcart.application\\extensions\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.domain\\entities\\additemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|solutionrelative:shopcart.domain\\entities\\additemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|solutionrelative:shopcart.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|c:\\users\\barbo\\source\\repos\\shopcart\\shopcart.domain\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3394ED5B-8589-47B2-BA09-861A1CB7AA83}|ShopCart.Domain\\ShopCart.Domain.csproj|solutionrelative:shopcart.domain\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ShopCart.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "ShopCart.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:14:30.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopCartUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Tests\\ShopCartUnitTests.cs",
+              "RelativeDocumentMoniker": "ShopCart.Tests\\ShopCartUnitTests.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Tests\\ShopCartUnitTests.cs",
+              "RelativeToolTip": "ShopCart.Tests\\ShopCartUnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:06:07.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "ShopCart\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "ShopCart\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:05:52.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart\\Program.cs",
+              "RelativeDocumentMoniker": "ShopCart\\Program.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart\\Program.cs",
+              "RelativeToolTip": "ShopCart\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:06:53.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartResponse.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Entities\\ShoppingCartResponse.cs",
+              "RelativeDocumentMoniker": "ShopCart.Domain\\Entities\\ShoppingCartResponse.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Entities\\ShoppingCartResponse.cs",
+              "RelativeToolTip": "ShopCart.Domain\\Entities\\ShoppingCartResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:11:01.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetShoppingCartQuery.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Queries\\GetShoppingCartQuery.cs",
+              "RelativeDocumentMoniker": "ShopCart.Application\\Queries\\GetShoppingCartQuery.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Queries\\GetShoppingCartQuery.cs",
+              "RelativeToolTip": "ShopCart.Application\\Queries\\GetShoppingCartQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:14:42.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetShoppingCartQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Queries\\GetShoppingCartQueryHandler.cs",
+              "RelativeDocumentMoniker": "ShopCart.Application\\Queries\\GetShoppingCartQueryHandler.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Queries\\GetShoppingCartQueryHandler.cs",
+              "RelativeToolTip": "ShopCart.Application\\Queries\\GetShoppingCartQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:17:02.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Entities\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "ShopCart.Domain\\Entities\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Entities\\ShoppingCartItem.cs",
+              "RelativeToolTip": "ShopCart.Domain\\Entities\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:10:30.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Commands\\AddItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "ShopCart.Application\\Commands\\AddItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Commands\\AddItemCommandHandler.cs",
+              "RelativeToolTip": "ShopCart.Application\\Commands\\AddItemCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:16:19.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InMemoryShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Infrastructure\\Repositories\\InMemoryShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "ShopCart.Infrastructure\\Repositories\\InMemoryShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Infrastructure\\Repositories\\InMemoryShoppingCartRepository.cs",
+              "RelativeToolTip": "ShopCart.Infrastructure\\Repositories\\InMemoryShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:46:05.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Commands\\AddItemCommand.cs",
+              "RelativeDocumentMoniker": "ShopCart.Application\\Commands\\AddItemCommand.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Commands\\AddItemCommand.cs",
+              "RelativeToolTip": "ShopCart.Application\\Commands\\AddItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:12:44.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Interfaces\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "ShopCart.Domain\\Interfaces\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Interfaces\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "ShopCart.Domain\\Interfaces\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:26:02.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShoppingCartLogger.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Infrastructure\\Logging\\ShoppingCartLogger.cs",
+              "RelativeDocumentMoniker": "ShopCart.Infrastructure\\Logging\\ShoppingCartLogger.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Infrastructure\\Logging\\ShoppingCartLogger.cs",
+              "RelativeToolTip": "ShopCart.Infrastructure\\Logging\\ShoppingCartLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:20:48.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Extensions\\Extensions.cs",
+              "RelativeDocumentMoniker": "ShopCart.Application\\Extensions\\Extensions.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Extensions\\Extensions.cs",
+              "RelativeToolTip": "ShopCart.Application\\Extensions\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:26:50.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddItemValidator.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Validators\\AddItemValidator.cs",
+              "RelativeDocumentMoniker": "ShopCart.Application\\Validators\\AddItemValidator.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Application\\Validators\\AddItemValidator.cs",
+              "RelativeToolTip": "ShopCart.Application\\Validators\\AddItemValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:30:11.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShopCart.Domain\\Entities\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "ShopCart.Domain\\Entities\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:10:14.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ShopCart.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ShopCart.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:09:58.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddItemRequest.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Entities\\AddItemRequest.cs",
+              "RelativeDocumentMoniker": "ShopCart.Domain\\Entities\\AddItemRequest.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ShopCart\\ShopCart.Domain\\Entities\\AddItemRequest.cs",
+              "RelativeToolTip": "ShopCart.Domain\\Entities\\AddItemRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:09:42.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

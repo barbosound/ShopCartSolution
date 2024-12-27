@@ -1,0 +1,11 @@
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\bin\Debug\net8.0\ShopCart.Domain.deps.json
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\bin\Debug\net8.0\ShopCart.Domain.dll
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\bin\Debug\net8.0\ShopCart.Domain.pdb
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\obj\Debug\net8.0\ShopCart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\obj\Debug\net8.0\ShopCart.Domain.AssemblyInfoInputs.cache
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\obj\Debug\net8.0\ShopCart.Domain.AssemblyInfo.cs
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\obj\Debug\net8.0\ShopCart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\obj\Debug\net8.0\ShopCart.Domain.dll
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\obj\Debug\net8.0\refint\ShopCart.Domain.dll
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\obj\Debug\net8.0\ShopCart.Domain.pdb
+C:\Users\barbo\source\repos\ShopCart\ShopCart.Domain\obj\Debug\net8.0\ref\ShopCart.Domain.dll

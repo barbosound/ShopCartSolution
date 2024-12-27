@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "ShopCart.Controllers.ShoppingCartController",
+    "Method": "AddProduct",
+    "RelativePath": "api/ShoppingCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ShopCart.Application.Commands.AddItemCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShopCart.Controllers.ShoppingCartController",
+    "Method": "GetCart",
+    "RelativePath": "api/ShoppingCart",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
